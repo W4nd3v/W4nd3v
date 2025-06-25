@@ -5,7 +5,9 @@ Sou entusiasta de tecnologia, sempre em busca de aprimoramento contínuo. Aqui v
 
 🔧 Estou sempre aberto a novos desafios e oportunidades que estimulem inovação, aprendizado e colaboração. Comprometimento, esforço e dedicação são os pilares do meu trabalho.
 
-📫 Fique à vontade para explorar meus repositórios, contribuir ou entrar em contato para trocarm
+📫 Fique à vontade para explorar meus repositórios, contribuir ou entrar em contato para trocarmos ideias.
+
+
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
